@@ -24,10 +24,10 @@ cap02_variaveis_e_tipos_de_dados/
 
 ## Progresso
 
-- [ ] Cap. 1 — Getting Started
-- [x] Cap. 2 — Variables and Simple Data Types *(em andamento)*
-- [ ] Cap. 3 — Introducing Lists
-- [ ] Cap. 4 — Working with Lists
+- [x] Cap. 1 — Getting Started *(finalizado)*
+- [x] Cap. 2 — Variables and Simple Data Types *(finalizado)*
+- [x] Cap. 3 — Introducing Lists *(finalizado)*
+- [ ] Cap. 4 — Working with Lists *(em andamento)*
 - [ ] Cap. 5 — If Statements
 - [ ] Cap. 6 — Dictionaries
 - [ ] Cap. 7 — User Input and while Loops
